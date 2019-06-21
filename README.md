@@ -1,2 +1,1 @@
-# ecom
-e commerce
+# try_django
