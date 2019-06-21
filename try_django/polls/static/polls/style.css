@@ -1,0 +1,9 @@
+li a {
+    color: green;
+}
+
+body {
+    background: ghostwhite url("images/background.gif") no-repeat;
+    width: 570px;
+    height: 363px;
+}
